@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SpinnerHani</string>
+    <string-array name="makanan_array">
+    <item>Aneka Nasi</item>
+    <item>Ice Cream</item>
+    <item>Seafood</item>
+    <item>Jajanan</item>
+    <item>Cepat Saji</item>
+    <item>Roti</item>
+    <item>Ayam and Bebek</item>
+    <item>Sweets</item>
+    <item>Minuman</item>
+    <item>Kopi</item>
+    <item>Pizza and pasta</item>
+    </string-array>
+
+</resources>

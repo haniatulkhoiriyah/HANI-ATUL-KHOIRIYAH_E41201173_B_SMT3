@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RecyclerViewHani</string>
+
+    //array untuk menaruh item judul
+    <string-array name="movie">
+        <item>"Harry Potter 1"</item>
+        <item>"Harry Potter 2"</item>
+        <item>"Harry Potter 3"</item>
+        <item>"Harry Potter 4"</item>
+        <item>"Harry Potter 5"</item>
+        <item>"Harry Potter 6"</item>
+    </string-array>
+
+    //array untuk menaruh item deskripsi
+    <string-array name="description">
+        <item>"Harry Potter and the Sorcerer's Stone"</item>
+        <item>"Harry Potter and the Chamber of Secrets"</item>
+        <item>"Harry Potter and the Prisoner of Azkaban"</item>
+        <item>"Harry Potter and the Goblet of Fire"</item>
+        <item>"Harry Potter and the Order of the Phoenix"</item>
+        <item>"Harry Potter and the Half-Blood Prince"</item>
+    </string-array>
+
+</resources>
