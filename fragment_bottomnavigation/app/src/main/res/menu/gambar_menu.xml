@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        // membuat masing masing item yang dibutuhkan pada bagian atas
+        <item
+            android:id="@+id/nav_writemessage"
+            android:icon="@drawable/ic_writemessage"
+            android:title="Write Message" />
+
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_chat"
+            android:title="Chat" />
+
+        <item
+            android:id="@+id/nav_game"
+            android:icon="@drawable/ic_game"
+            android:title="Game" />
+    </group>
+
+    <item android:title="Send and Share">
+        //membuat masing masing item yang dibutuhkan pada bagian send and share
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_send"
+                android:title="Send" />
+
+        </menu>
+    </item>
+
+</menu>
