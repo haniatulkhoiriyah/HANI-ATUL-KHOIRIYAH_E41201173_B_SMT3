@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteHani_E41201173</string>
+    //aksi pada setting
+    <string name="action_settings">Settings</string>
+    //pilihan untuk jenis kelamin
+    <string-array name="jenis_kelamin">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
