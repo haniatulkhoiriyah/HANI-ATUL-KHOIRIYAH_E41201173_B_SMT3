@@ -16,6 +16,13 @@
 ![2](https://user-images.githubusercontent.com/80372573/137170665-98ce2daf-538f-40d7-a3af-820be2f7faee.PNG)
 ![3](https://user-images.githubusercontent.com/80372573/137170699-1dd1a15d-31e6-4b5b-8728-390c0e0cc6df.PNG)
 ![4](https://user-images.githubusercontent.com/80372573/137170724-ded42fc7-193f-4c84-8cb6-47fd569d70ad.PNG)
+#TugasMinggu7
+![1](https://user-images.githubusercontent.com/80372573/138454240-7bcac5f1-1b93-4e06-a6cf-c9f4e619e1f1.PNG)
+![2](https://user-images.githubusercontent.com/80372573/138454267-68129657-296c-40f1-b42b-628f56c7cc49.PNG)
+![3](https://user-images.githubusercontent.com/80372573/138454287-47c33b22-b360-403b-b0b9-a1ddcc07897b.PNG)
+![4](https://user-images.githubusercontent.com/80372573/138454311-d52d79bc-2404-4480-872c-cf2b3bc8e9f3.PNG)
+![5](https://user-images.githubusercontent.com/80372573/138454334-d690e9f9-f20f-4bb0-8628-062e82db9bec.PNG)
+![6](https://user-images.githubusercontent.com/80372573/138454355-3feb8a39-62a8-4967-a2ac-0b83db26346a.PNG)
 
 
 
